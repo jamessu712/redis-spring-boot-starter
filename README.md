@@ -16,3 +16,8 @@ redis SpringBoot
             <version>1.0.0-RELEASE</version>
         </dependency>
 ```
+## 阿里云免费maven库
+- https://repomanage.rdc.aliyun.com/my/repo/search
+
+## 参考文章
+- [最详细的自定义Spring Boot Starter开发教程](https://mp.weixin.qq.com/s/ezz1zQ6O4qV4pwqz1UjdTg)
